@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a website
-- 🌱 I’m currently learning python
+- ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
+- 🔭 **I’m Currently Working on :**
+- [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  
+- [x] ![](https://img.shields.io/badge/Web_Developing-%7C-orange)
+- [x] ![](https://img.shields.io/badge/Video_Editing-%7C-blue)
+- [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
+- 🌱 I’m currently learning **`Programming and Designing!`** ✌️✌️
 - 👯 I’m looking to collaborate on Google DSC
 - 🤔 I’m looking for help with Satyam Tripathi
 - 💬 Ask me about any tech 
