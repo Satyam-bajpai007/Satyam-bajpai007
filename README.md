@@ -21,7 +21,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/uiconstock/folded-social-media/64/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://twitter.com/SatyamB95964122" target="_blank"><img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F07%2FTwitter-Download-PNG.png&imgrefurl=http%3A%2F%2Fwww.pngall.com%2Ftwitter-png&tbnid=6vxW--eSv7TlIM&vet=12ahUKEwiVjMeg6rbsAhXa5TgGHQHLCdgQMygHegUIARCsAQ..i&docid=Rk9kvgkEXAh2_M&w=256&h=256&itg=1&q=twitter%20image&ved=2ahUKEwiVjMeg6rbsAhXa5TgGHQHLCdgQMygHegUIARCsAQ" balt="Linkedin" width="65" height="70"></a> 
+ <a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/uiconstock/folded-social-media/64/Linkedin-icon.png" alt="Linkedin"></a> <a href=https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.twitter.com%2Fen%2Fusing-twitter%2Fpicture-descriptions&psig=AOvVaw0yQE75-sYJuv6mS5SmKBLt&ust=1602859723580000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDY5PXrtuwCFQAAAAAdAAAAABAI" alt="Twitter" width="65" height="70"></a> 
  <a href="mailto:satyamjarvis007@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Gmail-B-icon.png" alt="Email"></a>
   <p/>
 </div>
