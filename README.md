@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Satyam Tripathi
 - 💬 Ask me about any tech 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Computers and mobiles are made to safe our time 
+- ⚡ Fun fact: Computers and mobiles are made to save our time 
 - 🎯 Future Goal : **Become Expert in :** 
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Android_Developer-%7C-brown)
 - [x] ![](https://img.shields.io/badge/Machine_Learning-%7C-violet) ![](https://img.shields.io/badge/App_Development-%7C-indigo) ![](https://img.shields.io/badge/Ethical_Hacking-%7C-yellow) 
