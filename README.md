@@ -22,7 +22,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://twitter.com/SatyamB95964122" target="_blank"><img src="https://icons.iconarchive.com/icons/ampeross/smooth/64/Twitter-icon.png" alt="twitter" width="65" height="70"></a><a href="mailto:satyamjarvis007@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/sinisa91g/supernova/64/GMail-icon.png" alt="Email"></a>
+ <a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://twitter.com/SatyamB95964122" target="_blank"><img src="https://icons.iconarchive.com/icons/ampeross/smooth/64/Twitter-icon.png" alt="twitter"></a><a href="mailto:satyamjarvis007@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/sinisa91g/supernova/64/GMail-icon.png" alt="Email"></a>
   <p/>
 </div>
 </body>
