@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> I am <a href="https://bio.link/satyam007">Satyam</a>
+<h3>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> I am <a href="https://bio.link/satyam007">Satyam</a></h3>
+
 
 - ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
 - 🔭 **I’m Currently Working on :**
