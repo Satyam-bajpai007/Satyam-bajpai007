@@ -17,19 +17,25 @@
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Android_Developer-%7C-brown)
 - [x] ![](https://img.shields.io/badge/Machine_Learning-%7C-violet) ![](https://img.shields.io/badge/App_Development-%7C-indigo) ![](https://img.shields.io/badge/Ethical_Hacking-%7C-yellow) 
 - [x] ![](https://img.shields.io/badge/DS&Algo-%7C-pink) ![](https://img.shields.io/badge/Dart-%7C-blue) ![](https://img.shields.io/badge/Flutter-%7C-yellow) ![](https://img.shields.io/badge/Rive-%7C-pink)<br/>
-<img src ="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=D4AF37">
 
-### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
- <body>
-    <div class="img1">
-     <p align='center'>
- <a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://twitter.com/SatyamB95964122" target="_blank"><img src="https://icons.iconarchive.com/icons/ampeross/smooth/64/Twitter-icon.png" alt="twitter"></a><a href="mailto:satyamjarvis007@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/sinisa91g/supernova/64/GMail-icon.png" alt="Email"></a>
-  <p/>
+### <h1 align=center > **`My Stats`** </h1>
+
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">&nbsp&nbsp&nbsp&nbsp
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-bajpai007&theme=dracula"/>
 </div>
-</body>
+
+### <h1 align=center > **`Feel Free To Contact Me`** </h1>
+
+<div align=center>
+<a href="https://www.linkedin.com/in/satyam-bajpai-885a731a9/" target="_blank"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://twitter.com/SatyamB95964122" target="_blank"><img src="https://icons.iconarchive.com/icons/ampeross/smooth/64/Twitter-icon.png" alt="twitter"></a><a href="mailto:satyamjarvis007@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/sinisa91g/supernova/64/GMail-icon.png" alt="Email"></a>
+</div>
 <br/>
+
+### <h1 align=center > **`Snake Eating My Contribution`** </h1>
+
  <div align=center>
-  <h2>Snake Eating My Contribution</h2>
   <img src=https://github.com/Satyam-bajpai007/Satyam-bajpai007/blob/output/github-contribution-grid-snake.gif>
  </div>
  
