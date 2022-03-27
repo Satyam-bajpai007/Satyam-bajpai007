@@ -17,7 +17,7 @@
 
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Android_Developer-%7C-brown)
 - [x] ![](https://img.shields.io/badge/Machine_Learning-%7C-violet) ![](https://img.shields.io/badge/Web_Development-%7C-indigo) 
-- [x] ![](https://img.shields.io/badge/Cyber_Security-%7C-yellow) ![](https://img.shields.io/badge/DS&Algo-%7C-pink)
+- [x] ![](https://img.shields.io/badge/BlockChain-%7C-yellow) ![](https://img.shields.io/badge/DS&Algo-%7C-pink)
 - [x] ![](https://img.shields.io/badge/OpenCV-%7C-yellow) ![](https://img.shields.io/badge/NLP-%7C-pink) <br/>
 
 ### <h1 align=center > **`My Stats`** </h1>
