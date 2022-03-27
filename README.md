@@ -1,7 +1,7 @@
 <h1 align=center>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I am <a href="https://bio.link/satyam007">Satyam</a></h3>
 <img src="https://github.com/Satyam-bajpai007/Satyam-bajpai007/blob/main/VIG/Banner%20(1).gif" >
 
-### <h2 align=center > **`About Me`** <img src = "https://media2.giphy.com/media/6n6N2o22gKVeDQDGy8/200w.webp?cid=ecf05e47rhmu4ynnczx5p26hnzx6m91hxbpn7wa1touscdug&rid=200w.webp&ct=s" width = 60px position=relative> </h2>
+<h2 align=center > About Me <img src = "https://media2.giphy.com/media/6n6N2o22gKVeDQDGy8/200w.webp?cid=ecf05e47rhmu4ynnczx5p26hnzx6m91hxbpn7wa1touscdug&rid=200w.webp&ct=s" width = 60px position=relative> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -19,14 +19,6 @@
 - [x] ![](https://img.shields.io/badge/Machine_Learning-%7C-violet) ![](https://img.shields.io/badge/Web_Development-%7C-indigo) 
 - [x] ![](https://img.shields.io/badge/BlockChain-%7C-yellow) ![](https://img.shields.io/badge/DS&Algo-%7C-pink)
 - [x] ![](https://img.shields.io/badge/OpenCV-%7C-yellow) ![](https://img.shields.io/badge/NLP-%7C-pink) <br/>
-
-### <h2 align=center > **`My Stats`** </h2>
-
-<div align=center>
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=true"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-bajpai007&theme=dracula"/>
-</div>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Satyam-bajpai007?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp&nbsp
@@ -53,7 +45,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitindiwakar&compact=True"/>
 </a>
 
-### <h2 align=center > **`Snake Eating My Contribution`** </h2>
+<h2 align=center > My Stats </h2>
+
+<div align=center>
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-bajpai007&theme=dracula"/>
+</div>
+
+<h2 align=center > Snake Eating My Contribution </h2>
 
  <div align=center>
   <img src=https://github.com/Satyam-bajpai007/Satyam-bajpai007/blob/output/github-contribution-grid-snake.gif>
