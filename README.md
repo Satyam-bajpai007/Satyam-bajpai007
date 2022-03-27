@@ -21,8 +21,8 @@
 ### <h1 align=center > **`My Stats`** </h1>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">&nbsp&nbsp&nbsp&nbsp
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-bajpai007&theme=chartreuse-dark"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-bajpai007&theme=react&cache_seconds=30&hide_border=true"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-bajpai007&theme=dracula"/>
 </div>
 
