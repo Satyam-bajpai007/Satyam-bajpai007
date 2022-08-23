@@ -45,6 +45,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@satyambajpai&compact=True"/>
 </a>
 
+<h2 align=center > Featured Projects </h2>
+<a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Book_Recommendation_Sysyem&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
+
 <h2 align=center > My Stats </h2>
 
 <div align=center>
