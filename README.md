@@ -50,6 +50,7 @@
 <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Book_Recommendation_Sysyem&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Face_Mask_Detection&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Movie-Recommendation-System&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
+<a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=SMS-Spam-Detection&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 </div>
 
 <h2 align=center > My Stats </h2>
