@@ -61,9 +61,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-bajpai007&theme=dracula"/>
 </div>
 
-<h2 align=center > Snake Eating My Contribution </h2>
+<!--  <h2 align=center > Snake Eating My Contribution </h2>
 
  <div align=center>
   <img src=https://github.com/Satyam-bajpai007/Satyam-bajpai007/blob/output/github-contribution-grid-snake.gif>
- </div>
+</div> -->
  
