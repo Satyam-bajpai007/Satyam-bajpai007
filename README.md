@@ -5,9 +5,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
-- 🔭 I’m currently working on **Online Voting System** 
-- 🌱 I’m currently learning **Blockchain, Machine learning, OpenCV and NLP**
+- ✌️ Current Organsation **Empover I-Tech PVT LTD**
+- ✌️ Currently Working As **Senior Software Developer**
+- 🔭 I’m currently working on **Supply Chain Software using Blockchain** 
+- 🌱 I’m currently learning **Blockchain, Machine learning, App Development**
 - 😄 Pronouns: **He/His**
 - ⚡ Interesting fact **Coding is behind almost everything that is powered by electricity**
 - 💬 Talk to me about **Python, Freelancing Opportunites, Open Source, Blockchain, Machine Learning**
@@ -40,12 +41,12 @@
 <a href = 'https://twitter.com/SatyamB95964122'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp&nbsp
 <a href = 'satyamjarvis007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> &nbsp&nbsp
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@satyambajpai&compact=True"/>
 </a>
 
-<!--<h2 align=center > Featured Projects </h2>
+h2 align=center > Featured Projects </h2>
 <div align=center>
 <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Book_Recommendation_Sysyem&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam-bajpai007&repo=Face_Mask_Detection&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
